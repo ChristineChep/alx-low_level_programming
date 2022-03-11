@@ -4,9 +4,10 @@
 /** 
  * main -Entry point 
  *
- * Return - 0 (successs) 
  * Description :This is an if/else statement declares sign of a random number
- * betty style doc for function main goes there
+ * It also states if the vlue is zero
+ *
+ * Return: 0 for success
 */
 int main(void)
 {
@@ -27,5 +28,6 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
+
 	return (0);
 }
