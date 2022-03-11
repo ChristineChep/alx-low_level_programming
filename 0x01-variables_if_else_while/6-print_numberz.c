@@ -2,17 +2,17 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: Print a single digit number base 10 from 0
+ * description:gdo not use variable char to print single digits
  * Return: 0 Success
  */
 int main(void)
 {
-	char c = '0';
+	int num = 48;
 
-	while (c <= '9')
+	while (num <= 57)
 	{
-		putchar(c);
-		c++;
+		putchar(num);
+			num++;
 	}
 	putchar('\n');
 	return (0);
