@@ -4,7 +4,7 @@
 /**
  * main - Entry point 
  * Description: Output of the program is last digit of  followed by n
- *Return: 0 (success)
+ * Return: 0 (success)
  *
  */
 int main(void)
