@@ -3,9 +3,7 @@
 #include <stdio.h>
 /**
  * main - Entry point 
- *
  * Description: Output of the program is last digit of  followed by n
- *
  *Return: 0 (success)
  *
  */
@@ -22,7 +20,7 @@ int main(void)
 	{
 		printf("and is greater than 5\n");
 	}
-	else if (( n % 10) == 0)
+	else if ((n % 10) == 0)
 	{
 		printf("and is 0\n");
 	}

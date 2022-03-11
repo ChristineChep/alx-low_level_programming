@@ -2,11 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /** 
- * main -Entry point 
- *
+ *  main -Entry point
  * Description :This is an if/else statement declares sign of a random number
  * It also states if the vlue is zero
- *
  * Return: 0 for success
 */
 int main(void)
