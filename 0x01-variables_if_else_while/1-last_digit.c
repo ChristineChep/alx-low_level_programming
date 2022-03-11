@@ -2,10 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point 
- * Description: Output of the program is last digit of  followed by n
+ * main - Entry point.
+ * Description: Output of the program is last digit.
  * Return: 0 (success)
- *
  */
 int main(void)
 {
