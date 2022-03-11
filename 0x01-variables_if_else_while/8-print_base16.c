@@ -7,17 +7,17 @@
  */
 int main(void)
 {
-	int num = 30;
+	int num = 48;
 
-	while (num <= 39)
+	while (num <= 57)
 	{
 		putchar(num);
 		num++;
 	}
 
-	num = 61;
+	num = 97;
 
-	while (num <= 66)
+	while (num <= 102)
 	{
 		putchar(num);
 		num++;
