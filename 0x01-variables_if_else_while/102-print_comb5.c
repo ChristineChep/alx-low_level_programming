@@ -9,7 +9,7 @@ int main(void)
 {
 	int i, j;
 
-	for (i = 0; i <= 9; i++)
+	for (i = 0; i <= 99; i++)
 	{
 		for (j = 0; j <= 99; j++)
 		{
@@ -31,4 +31,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}	
+}
