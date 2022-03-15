@@ -3,7 +3,7 @@
  * print_alphabet_x10 -print all alphabet 10 times
  *
  * main-entry point
- * Description:Print 10 times the alphabet
+ * Description: Print alphabet
  * Return: 1 on  success
  */
 void print_alphabet_x10(void)
