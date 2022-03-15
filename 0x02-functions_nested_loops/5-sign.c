@@ -2,17 +2,17 @@
 
 /**
  *
- *  * print_sign - prints the sign of a number
+ *  print_sign - prints the sign of a number
  *
- *   * @n: The sign to print
+ *  @n: The sign to print
  *
- *    *
+ *    
  *
- *     * the program - "prints the sign of a number
+ *  the program - prints the sign of a number
  *
- *      * Return: 1 if positive, 0 if zero and -1 if its a negative number.
+ *  Return: 1 if positive, 0 if zero and -1 if its a negative number.
  *
- *       */
+ */      
 
 
 int print_sign(int n)
