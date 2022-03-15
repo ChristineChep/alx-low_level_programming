@@ -5,7 +5,7 @@
  * the program converts negative numbers to  positive
  * Return: -n if negative else return n
  */
-int _abd(int n)
+int _abs(int n)
 {
 	if (n < 0)
 	{
