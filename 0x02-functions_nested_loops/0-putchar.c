@@ -1,13 +1,9 @@
 #include "main.h"
-/**
- * main - Entry point
- * prints "_putchar" followed by a new line
- *
- * Description: prints _putchar
- * the program prints _putchar fllowed by a new line
- * Return :  0
+/** main - entry point
+ * prints _putchar followed by new line
+ * Description: prints new line
+ * Return: 0
  */
-
 int main(void)
 {
 	char ch[] = "_putchar";
@@ -18,6 +14,8 @@ int main(void)
 		_putchar(ch[i]);
 		i++;
 	}
+
 	_putchar('\n');
+
 	return (0);
 }
